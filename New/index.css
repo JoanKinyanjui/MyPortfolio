@@ -403,6 +403,16 @@
    padding: 2rem;
    font-size: 12px;
  }
+ .skills{
+  flex: 100%;
+  text-align: center;
+  margin-top: 1rem;
+  margin: auto;
+  background-color: rgb(235, 209, 187);
+  padding: 2rem;
+  font-size: 12px;
+ 
+ }
  .home2{
  display: none;
  }
