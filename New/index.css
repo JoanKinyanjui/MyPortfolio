@@ -210,7 +210,7 @@
   
   .myimg{
     width: 180px;
-    height: max-content;
+    height: 180px;
     position: relative;
     border-radius: 100%;
     box-shadow: 2px 2px 3px sandybrown;
@@ -218,7 +218,7 @@
   .profile{
     bottom: 10%;
     position: absolute;
-    width:180px;
+    width:150px;
     background-color: sandybrown;
  }
  .profile1{
@@ -230,7 +230,7 @@
  }
  .socials{
   position: absolute;
-  bottom: 5%;
+  bottom: 8%;
   left: 100%;
   display: flex;
   text-align: center;
