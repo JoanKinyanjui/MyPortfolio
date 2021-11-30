@@ -404,7 +404,6 @@
    font-size: 13px;
  }
  .skills-set{
-  list-style-type:none ;
   text-align: left;
   background-color: rgb(235, 209, 187);
   font-size: 12px;
@@ -547,10 +546,10 @@
  height:max-content;
  position: absolute;
  background-color: transparent;
- margin-left: 60%;
- margin-top: 20%;
+ margin-left: 40%;
+ margin-top: 30%;
  text-decoration: none;
- font-size: 13px;
+ font-size: 12px;
 }
 .project-info:hover{
   text-align: center;
