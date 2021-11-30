@@ -403,16 +403,10 @@
    padding: 2rem;
    font-size: 13px;
  }
- .skills{
-  
- }
  .skills-set{
   list-style-type:none ;
-  flex: 100%;
-  text-align: center;
-  margin: auto;
+  text-align: left;
   background-color: rgb(235, 209, 187);
-  padding: 2rem;
   font-size: 12px;
 
  }
