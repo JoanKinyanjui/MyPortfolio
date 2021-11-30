@@ -200,7 +200,7 @@
   text-align: center;
 }
 }
-@media screen  and (max-width: 360px){
+@media screen  and (max-width: 380px){
   .unordered-menu{
     display: flex;
     list-style-type: none;
@@ -209,8 +209,8 @@
   }
   
   .myimg{
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 100px;
     position: relative;
     border-radius: 100%;
     box-shadow: 2px 2px 3px sandybrown;
