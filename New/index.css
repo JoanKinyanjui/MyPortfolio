@@ -401,7 +401,7 @@
    margin: auto;
    background-color: rgb(235, 209, 187);
    padding: 2rem;
-   font-size: 12px;
+   font-size: 13px;
  }
  .skills{
   flex: 100%;
@@ -515,4 +515,46 @@
    .project-info:hover{
      text-align: center;
    }
+}
+@media screen and (max-width:380px) {
+.grid-container{
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+.grid-item{
+  width: 80%;
+  height: 300px;
+  background-color: navajowhite;
+  margin: auto;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+  display: flex;
+  position: relative;
+}
+.grid-item:hover{  
+  opacity: 0.6;
+  width: 60%;
+  box-shadow: 3px 3px 4px purple;
+  border-radius: 20%;
+}
+
+.img-1{
+  flex: 80%;
+  width: 100%;
+  height: max-content;
+
+}
+.project-info{
+ width: 200px;
+ height:max-content;
+ position: absolute;
+ background-color: transparent;
+ margin-left: 60%;
+ margin-top: 20%;
+ text-decoration: none;
+}
+.project-info:hover{
+  text-align: center;
+}
 }
