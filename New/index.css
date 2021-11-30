@@ -405,6 +405,7 @@
  }
  .skills-set{
   text-align: left;
+  list-style-type:circle;
   background-color: rgb(235, 209, 187);
   font-size: 12px;
 
