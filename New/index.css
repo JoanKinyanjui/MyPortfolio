@@ -200,6 +200,42 @@
   text-align: center;
 }
 }
+@media screen  and (max-width: 360px){
+  .unordered-menu{
+    display: flex;
+    list-style-type: none;
+    position: fixed;
+    width: 100%;
+  }
+  
+  .myimg{
+    width: 180px;
+    height: max-content;
+    position: relative;
+    border-radius: 100%;
+    box-shadow: 2px 2px 3px sandybrown;
+  }
+  .profile{
+    bottom: 10%;
+    position: absolute;
+    width:180px;
+    background-color: sandybrown;
+ }
+ .profile1{
+   bottom: 10%;
+   right: 0;
+    position: absolute;
+    width: 150px;
+   
+ }
+ .socials{
+  position: absolute;
+  bottom: 5%;
+  left: 100%;
+  display: flex;
+  text-align: center;
+}
+}
 .heading-1{
   margin: auto;
   text-align: center;
