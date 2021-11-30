@@ -210,15 +210,16 @@
   
   .myimg{
     width:230px;
-    height: 250px;
+    height: 270px;
     position: relative;
     border-radius: 100%;
     box-shadow: 2px 2px 3px sandybrown;
+    margin-top: -1rem;
   }
   .profile{
     bottom: 10%;
     position: absolute;
-    width:150px;
+    width:230px;
     background-color: sandybrown;
  }
  .profile1{
