@@ -209,12 +209,11 @@
   }
   
   .myimg{
-    width: 150px;
-    height: 150px;
+    width:230px;
+    height: 250px;
     position: relative;
     border-radius: 100%;
     box-shadow: 2px 2px 3px sandybrown;
-    margin-top: 1rem;
   }
   .profile{
     bottom: 10%;
